@@ -1,0 +1,15 @@
+*.egg*
+tags
+venv
+.venv
+build/
+dist/
+__pycache__
+**/*.pyc
+**/.idea
+.pytest_cache/
+.htmlcov
+pip-wheel-metadata
+.vscode
+.coverage
+.env
